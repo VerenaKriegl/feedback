@@ -1,0 +1,98 @@
+:Author: Verena Kriegl <verena.kriegl@sunlime.at>
+:description: Dokumentation der CRM Applikation Lama Poll
+:imagesdir: ./images
+
+= Lama Poll - ein Use Case
+{author}
+v1.0, 2018-08-´06, last modification {docdatetime}
+:page-layout: docs
+:linkattrs:
+:sectanchors:
+:experimental:
+:idprefix:
+:idseparator: -
+:toc: macro
+
+== Erstellung
+
+.Erstellen einer Kundenumfrage
+image::https://screenshot.sunlime.at/629fdf4135f70e476b4162b8dcc3a0e7[alt=Erstellung,width=440,height=280,float="left",align="center"]
+
+{nbsp} +
+{nbsp} +
+
+
+Grundsätzlich ist es sehr strukturiert aufgebaut und einfach zu bedienen. Elemente können einfach durch klicken auf **Neues Element** hinzugefügt werden. Es gibt eine große Auswahl an verschiedensten Elementen. Weiters kann das eigene Logo hinzugefügt werden und verschiedene Designeinstellungen können vorgenommen werden. Zu den Designeinstellungen zählen Kriterien, wie Seitennummern anzeigen etc.
+
+{nbsp} +
+{nbsp} +
+
+== Design
+
+.Designvorlagen
+image::https://screenshot.sunlime.at/5004b08f471c37d55703985aa0b889c3[alt=Design,width=440,height=280,float="right",align="center"]
+
+{nbsp} +
+{nbsp} +
+
+Es gibt bereits einige *vordefinierte Designs* zum Thema Kundenbefragung und weiteren Themen.
+
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+
+== Versenden der Umfrage
+
+.Versenden von Umfragen
+image::https://screenshot.sunlime.at/03b1d1e110be694aa1e790c4f87b2a82[alt=Versendung,width=440,height=280,float="left",align="center"]
+
+{nbsp} +
+{nbsp} +
+
+Einfaches Versenden von Umfragen erfolgt über einen *Link* oder mittels einem *QR-Code*. Mehrfachteilnahmen und Korrekturen können erlaubt werden.
+
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+
+== Auswertung
+
+.Auswerten von Umfragen
+image::https://screenshot.sunlime.at/df114da99bbd96d7ca4b0f5d2fc7c53b[alt=Auswertung,width=440,height=280,float="right",align="center"]
+
+{nbsp} +
+{nbsp} +
+
+Umfragen können in verschiedenster Weise ausgewertet werden. Auch einzelne Fragen können in unterschiedlichen Diagrammarten dargestellt werden. Es kann herausgefunden werden, wieviele Teilnehmer es bereits gab, seit wann die Umfrage bereits aktiv ist und weiteres. Ein weiteres wichtiges Detail ist das Erstellen von **Stichproben** und **Vergleichen**. 
+
+***
+
+Jedoch sind auch einige wichtige Einstellungselemente bei der Free-Version deaktiviert. Das Erstellen einer beliebigen Endseite ist erst ab der Basic Version möglich, ebenso beim Einstellen unterschiedlicher Sprachen und weiterem. Das Logo von LamaPoll zwischen den beiden Button Beenden und Zurück lässt sich nicht ausblenden.
+
+== Preise
+
+[.rolename]
+|===
+
+a|
+.Free-Version: 
+   	* unbegrenzte Laufzeit
+  	* jederzeit upgradebar
+   	* 50 Teilnehmer pro Umfrage
+   	* 10 Fragen pro Umfrage
+ 	* Eigenes Design: Logo, Farben, Schriften etc. a|
+
+.Basic-Version:
+	* *49€ pro Monat*
+	* 500 Teilnehmer pro Umfrage
+	* Pflichtfragen
+	* Mehrsprachige Umfragen
+	* Verzweigungen und Sichtbarkeiten
+	* eigene Endseiten
+|==
+

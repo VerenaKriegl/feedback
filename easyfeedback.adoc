@@ -1,0 +1,80 @@
+:Author: Verena Kriegl <verena.kriegl@sunlime.at>
+:description: Dokumentation der CRM Applikation Easy Feedback
+:imagesdir: ./images
+
+= Easy Feedback - ein Use Case
+{author}
+v1.0, 2018-08-´07, last modification {docdatetime}
+:page-layout: docs
+:linkattrs:
+:sectanchors:
+:experimental:
+:idprefix:
+:idseparator: -
+:toc: macro
+
+== Preise
+
+[cols="3*.^"]
+|===
+|*Leistungen*
+|*Free*
+|*Light-Paket*
+
+|Anzahl Umfragen
+|Unbegrenzt
+|1 Umfrage
+
+|Teilnehmer pro Umfrage
+|75
+|1000
+
+|Anzahl Fragen pro Umfrage
+|10
+|Unbegrenzt
+
+|Laufzeit
+|1 Monat pro Umfrage
+|3 Monate
+
+|Benutzeraccounts
+|1
+|1
+
+|===
+
+== Erstellung
+
+Das Erstellen einer Umfrage mit Easy Feedback ist einfach und strukturiert aufgebaut. Mit dem Light-Paket ist es möglich seine eigene Endseite ohne Werbung zu gestalten und eine automatische Weiterleitung am Ende der Umfrage zu implementieren. Ein Export der Statistiken ist in der Free-Version nicht möglich. 
+In den Einstellungen kann man weitere wichige Punkte definieren, hierzu zählen, das Vergeben eines sinnvollen Umfragelinks, das Anzeigen von Pflichtfragen und weiterem.
+
+.Erstellen einer Kundenumfrage
+image::https://screenshot.sunlime.at/ab056a241e88935432ac3a76bb87a948[alt=Erstellung,width=440,height=280,float="center",align="center"]
+
+== Design
+Vor der Erstellung der Umfrage ist es möglich ein vordefiniertes Layout aus zu wählen. Dabei stehen einige zur Verfügung. Nebenbei kann man nicht nur Fragen und Text einfügen, sondern auch Bilder und Videos können miteingebunden werden.
+
+.Designvorlagen
+image::https://screenshot.sunlime.at/9661e559c5f4ae91e24f86df22d6d33a[alt=Design,width=440,height=280,float="center",align="center"]
+
+== Versenden der Umfrage
+
+Grundsätzlich wird die Umfrage über einen Link weiterverschickt. Davor kann man beliebig viele *Zugagscodes* erstellen, mit denen man dann an der Umfrage teilnehmen darf.
+
+.Versenden von Umfragen
+image::https://screenshot.sunlime.at/514830078b4fa06dd6e27912db48a369[alt=Versendung,width=440,height=280,float="center",align="center"]
+
+== Auswertung
+
+Bei der Auswertung kann man zwischen mehreren Statistiken wählen und es werden auch Enddatum, Startdatum und weitere Informationen aufgelistet. Jede Frage kann auch einzeln ausgewertet werden und es gibt verschiedene Diagrammtypen zu wählen. Bei der Auswertung von einzelnen Fragen wird zusätzlich der Durchschnittswert berechnet. 
+
+.Auswerten von Umfragen
+image::https://screenshot.sunlime.at/6c8e0bb920f6a4a2ef0126bf6db60c6a[alt=Auswertung,width=440,height=280,float="center",align="center"]
+
+== Link zur Website
+https://easy-feedback.de
+
+***
+
+
+
